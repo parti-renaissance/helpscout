@@ -4,6 +4,10 @@ body {
     font-family: 'Roboto', Helvetica, sans-serif;
 }
 
+button {
+    font-family: 'Gillsans', 'Roboto', Helvetica, sans-serif;
+}
+
 #mainNav {
     font-size: 18px;
     line-height: 28px;
@@ -18,4 +22,8 @@ body {
     background: url(https://en-marche.fr/logo/large_bg_white.jpg) no-repeat 0 0;
     background-size: 100%;
     margin-top: 10px;
+}
+
+#searchBar button {
+    
 }
