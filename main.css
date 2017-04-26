@@ -23,8 +23,10 @@ body {
 /* SEARCH */
 
 #docsSearch {
-    background-image: url(https://en-marche.fr/assets/static/emmanuel-macron.jpg?q=70&cache=eb65adffe43ea1db6265&fm=pjpg&s=ecc1123c662aa1bf5831a4ce3b863384);
+    background-image: url(https://enmarche.github.io/helpscout//images/propositions-banner.jpg);
     background-size: cover;
+    backrgound-position: left top;
+    background-attachement: fixed;
     padding: 6em 0;
     top: 0;
     left: 0;
