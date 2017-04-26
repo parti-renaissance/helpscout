@@ -4,10 +4,6 @@ body {
     font-family: 'Roboto', Helvetica, sans-serif;
 }
 
-button {
-    font-family: 'Gillsans', 'Roboto', Helvetica, sans-serif;
-}
-
 #mainNav {
     font-size: 18px;
     line-height: 28px;
@@ -25,5 +21,10 @@ button {
 }
 
 #searchBar button {
-    
+    /* padding: 7px 15px 7px; */
+    font-family: 'Gillsans', 'Roboto', Helvetica, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    transition: all 0.45s;    
+    background-color: #01B2FB;
 }
