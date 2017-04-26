@@ -37,3 +37,7 @@ body {
     border-color: transparent;
     text-shadow: none;
 }
+
+#searchBar button:hover {
+    background-color: #009FE1;
+}
