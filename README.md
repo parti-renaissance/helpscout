@@ -1,5 +1,5 @@
 ## Legislatives support platform
 
-The file [main.css](https://github.com/EnMarche/helpscout/blob/master/main.css) gets pushed to https://enmarche.github.io/helpscout/main.css.
+Simple home to manage the interface of support plaftorm. 
 
-It manages the styles for the legislatives support platform. 
+* [main.css](https://github.com/EnMarche/helpscout/blob/master/main.css) controls the styles and is accessible at https://enmarche.github.io/helpscout/main.css.
