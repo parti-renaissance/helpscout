@@ -1,3 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700');
+
+body {
+    font-family: 'Roboto', Helvetica, sans-serif;
+}
+
+#mainNav {
+    font-size: 18px;
+    line-height: 28px;
+    font-family: 'Gillsans', 'Roboto', Helvetica, sans-serif;
+}
+
 #mainNav .brand span {
     display: inline-block;
     text-indent: -070517px;
