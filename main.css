@@ -118,4 +118,19 @@ a#category-95 {
 }
 
 
+/* Responsive */
 
+@media screen and (max-width: 1105px) {
+section.category-list .category {
+    width: 48.2%;
+}
+}
+
+@media screen and (max-width: 760px) {
+section.category-list .category {
+    box-sizing: border-box;
+    margin: 0 0 20px;
+    padding: 96px 20px 20px;
+    width: 100%;
+}
+}
