@@ -21,7 +21,7 @@ body {
     margin-top: 10px;
 }
 
-/* SEARCH */
+/* search */
 
 #docsSearch {
     background-image: url(https://enmarche.github.io/helpscout/images/legislatives.jpg);
@@ -73,4 +73,10 @@ body {
 
 #searchBar button:hover {
     background-color: #009FE1;
+}
+
+/* icons */
+
+a#category-6:before {
+    content: '\f0e3';
 }
