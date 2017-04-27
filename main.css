@@ -75,6 +75,19 @@ body {
 }
 
 /* icons */
+.category-list .category {
+    background-color: #fff;
+    background-position: top 34px center !important;
+    background-repeat: no-repeat !important;
+    background-size: 50px 50px !important;
+    box-shadow: 0 7px 4px -5px rgba(0,0,0,0.05);
+    box-sizing: border-box;
+    min-height: 183px;
+    padding: 96px 20px 20px;
+    position: relative;
+    width: 31.5%;
+    transition: all 0.2s;
+}
 
 a#category-6 {
     background-image: url(https://enmarche.github.io/helpscout/images/icons/legal.png);
