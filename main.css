@@ -79,7 +79,7 @@ body {
     background-color: #fff;
     background-position: top 34px center !important;
     background-repeat: no-repeat !important;
-    background-size: 50px 50px !important;
+    background-size: auto 50px !important;
     box-shadow: 0 7px 4px -5px rgba(0,0,0,0.05);
     box-sizing: border-box;
     min-height: 183px;
