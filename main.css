@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:400,700');
-@import url('https://enmarche.github.io/helpscout/font-awesome.min.css');
 
 body {
     font-family: 'Roboto', Helvetica, sans-serif;
@@ -77,6 +76,6 @@ body {
 
 /* icons */
 
-a#category-6:before {
-    content: '\f0e3';
+a#category-6 {
+    background-image: url(https://enmarche.github.io/helpscout/images/icons/legal.png);
 }
