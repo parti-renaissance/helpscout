@@ -10,6 +10,11 @@ body {
     font-family: 'Gillsans', 'Roboto', Helvetica, sans-serif;
 }
 
+.article-count {
+    /* hide the number of articles */
+    display: none;
+}
+
 #mainNav .brand span {
     display: inline-block;
     text-indent: -070517px;
@@ -82,7 +87,7 @@ body {
     background-size: auto 45px !important;
     box-shadow: 0 7px 4px -5px rgba(0,0,0,0.05);
     box-sizing: border-box;
-    min-height: 183px;
+    min-height: 163px;
     padding: 90px 20px 20px;
     position: relative;
     width: 31.5%;
