@@ -10,6 +10,23 @@ body {
     font-family: 'Gillsans', 'Roboto', Helvetica, sans-serif;
 }
 
+#adherent {
+    display: inline-block
+}
+
+#adherentMobile {
+    display: none;
+}
+
+@media (max-width: 768px) {
+    #adherent {
+        display: none;
+    }
+    #adherentMobile {
+        display: inline-block;
+    }
+}
+
 .article-count {
     /* hide the number of articles */
     display: none;
