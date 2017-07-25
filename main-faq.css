@@ -79,3 +79,12 @@ body {
 #searchBar button:hover {
     background-color: #009FE1;
 }
+
+.category-list h3 {
+    font-weight: 600;
+}
+
+.category-list .category p {
+    color: #666;
+    line-height: 20px;
+}
