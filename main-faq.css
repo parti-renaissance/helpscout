@@ -23,6 +23,38 @@ body {
 	background-size: 100%;
 }
 
+#docsSearch {
+    background-image: url(https://enmarche.github.io/helpscout/images/meeting.jpg);
+    background-size: cover;
+    background-position: center 66%;
+    background-repeat: no-repeat;
+    padding: 6em 0;
+    top: 0;
+    left: 0;
+    height: auto;
+    display: block;
+    position: relative;
+}
+
+#docsSearch:before {
+    content: "";
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(0, 0, 0, .5);
+}
+
+#docsSearch h1 {
+    font-family: 'Gillsans', 'Roboto', Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 34px;
+    color: white;
+    position: relative;
+}
+
 #searchBar button {
     padding: 7px 15px 7px;
     font-family: 'Gillsans', 'Roboto', Helvetica, sans-serif;
