@@ -9,3 +9,12 @@
 	border-color: #FB476B;
 	color: #FFF;
 }
+
+#mainNav .brand span {
+	display: inline-block;
+	text-indent: -9000px;
+	width: 196px;
+	height: 47px;
+	background: url('https://en-marche.fr/images/logo-LREM.svg') no-repeat 0 0;
+	background-size: 100%;
+}
