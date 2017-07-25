@@ -36,6 +36,10 @@ body {
     position: relative;
 }
 
+#searchBar .search-query {
+    border-radius: 0;   
+}
+
 #docsSearch:before {
     content: "";
     overflow: hidden;
@@ -45,6 +49,11 @@ body {
     left: 0;
     right: 0;
     background: rgba(0, 0, 0, .5);
+}
+
+.article-count {
+    /* hide the number of articles */
+    display: none;
 }
 
 #docsSearch h1 {
