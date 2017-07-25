@@ -16,13 +16,12 @@ body {
 }
 
 #mainNav .brand span {
-    display: inline-block;
-    text-indent: -070517px;
-    width: 156px;
-    height: 31px;
-    background: url(https://en-marche.fr/logo/large_bg_white.jpg) no-repeat 0 0;
-    background-size: 100%;
-    margin-top: 10px;
+	display: inline-block;
+	text-indent: -9000px;
+	width: 196px;
+	height: 47px;
+	background: url('https://en-marche.fr/images/logo-LREM.svg') no-repeat 0 0;
+	background-size: 100%;
 }
 
 /* search */
