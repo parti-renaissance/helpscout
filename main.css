@@ -24,6 +24,10 @@ body {
 	background-size: 100%;
 }
 
+#mainNav .brand {
+	padding: 20px 0;
+}
+
 /* search */
 
 #docsSearch {
