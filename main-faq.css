@@ -1,13 +1,13 @@
-#docsSearch button {
-	background: #FB476B;
-	border-color: #FB476B;
-	color: #FFF;
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700');
+
+body {
+    font-family: 'Roboto', Helvetica, sans-serif;
 }
 
-#docsSearch button:hover {
-	background: #FB476B;
-	border-color: #FB476B;
-	color: #FFF;
+#mainNav {
+    font-size: 18px;
+    line-height: 28px;
+    font-family: 'Gillsans', 'Roboto', Helvetica, sans-serif;
 }
 
 #mainNav .brand {
@@ -21,4 +21,20 @@
 	height: 47px;
 	background: url('https://en-marche.fr/images/logo-LREM.svg') no-repeat 0 0;
 	background-size: 100%;
+}
+
+#searchBar button {
+    padding: 7px 15px 7px;
+    font-family: 'Gillsans', 'Roboto', Helvetica, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    transition: all 0.45s;    
+    background-color: #FB476B;
+    border-radius: 0;
+    border-color: transparent;
+    text-shadow: none;
+}
+
+#searchBar button:hover {
+    background-color: #E53072;
 }
