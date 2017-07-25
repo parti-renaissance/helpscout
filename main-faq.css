@@ -61,12 +61,12 @@ body {
     text-transform: uppercase;
     letter-spacing: 1.5px;
     transition: all 0.45s;    
-    background-color: #FF3680;
+    background-color: #01B2FB;
     border-radius: 0;
     border-color: transparent;
     text-shadow: none;
 }
 
 #searchBar button:hover {
-    background-color: #E53072;
+    background-color: #009FE1;
 }
